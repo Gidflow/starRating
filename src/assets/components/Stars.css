@@ -1,0 +1,11 @@
+.container{
+    padding: 5%;
+}
+
+.active{
+    color: yellow;
+}
+
+.inactive{
+    color: #000;
+}
